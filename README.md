@@ -5,4 +5,15 @@ Project I did for ComeOn Stockholm AB. My task was to bring the Front-End functi
 
  1. Clone this repository to your computer.
  2. Open "index.html" in your browser.
- 3. Enjoy and the play the games on the list!
+ 3. In this game you have 3 users available to use for login:
+  
+    username: rebecka /
+    password: secret
+
+    username: eric /
+    password: dad
+
+    username: stoffe /
+    password: rock
+    
+ 3. Once you logged in, enjoy and the play the games on the list and filter them through the categories!
