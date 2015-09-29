@@ -1,4 +1,7 @@
 # FrontEnd-for-ComeOn-Stockholm-AB
+
+![alt tag](https://raw.github.com/Lenz94/Front-End-for-ComeOn-Stockholm-AB/master/images/screenshots/screenshot.png)
+
 Project I did for ComeOn Stockholm AB. My task was to bring the Front-End functionality into the application to make it work. This time I worked with "JQuery, Javascript, Knockout &amp; Isotope".
 
 <h2> Functionality </h2>
